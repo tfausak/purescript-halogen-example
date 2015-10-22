@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "name": "purescript-halogen-example",
+  "dependencies": {
+    "purescript-halogen": "^0.5.1",
+    "purescript-prelude": "^0.1.3"
+  }
+}
